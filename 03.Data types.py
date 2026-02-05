@@ -3,7 +3,7 @@
 #Integer = +number , - number and 0.
 #Float   = Deciaml number
 #Boolean = True and False
-#None    = 
+#None    = None
 #String  = Sentense , Words
 
 
