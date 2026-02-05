@@ -8,9 +8,7 @@ marks_sst  = float(input("enter your social science(1-100)  marks :"))
 marks_eng  = float(input("enter your english (1-100)  marks :"))
 
 total_marks = (marks_math + marks_sci + marks_sst + marks_eng)
-
 print("Your total marks is :", total_marks)
 
 percentage = ((total_marks / 400) * 100 )
-
 print("you percentage is ",percentage)
