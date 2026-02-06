@@ -4,6 +4,5 @@
 name = "Aman Raj"
 age = 16
 
-
 '''Aman Raj and 16 is the value of the variables'''
-"""name and age is variable"""
+"""name and age is variable""" 
