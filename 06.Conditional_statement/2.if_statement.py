@@ -1,4 +1,6 @@
 """If statements """
+#The if statement checks a condition.
+#If the condition is True, the code inside if runs.
 
 #example of if statement.
 
