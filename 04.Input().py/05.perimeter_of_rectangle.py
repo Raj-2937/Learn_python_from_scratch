@@ -1,5 +1,5 @@
-length =int(input("enter your length:"))
-breadth =int(input("enter your breadth:"))
+length =float(input("enter your length:"))
+breadth =float(input("enter your breadth:"))
 
 perimeter = (2 * (length + breadth))
 
