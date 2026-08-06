@@ -1,0 +1,88 @@
+# Python Functions
+
+## Definition
+
+A **function** in Python is a reusable block of code that performs a specific task. Functions help make programs shorter, cleaner, and easier to maintain.
+
+## Syntax
+
+```python
+def function_name(parameters):
+    # Code
+    return value
+```
+
+## Example 1
+
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
+```
+
+### Output
+
+```
+Hello, World!
+```
+
+---
+
+## Example 2
+
+```python
+def greet(name):
+    print("Hello,", name)
+
+greet("Aman")
+```
+
+### Output
+
+```
+Hello, Aman
+```
+
+---
+
+## Example 3
+
+```python
+def add(a, b):
+    return a + b
+
+result = add(10, 20)
+print(result)
+```
+
+### Output
+
+```
+30
+```
+
+---
+
+## Example 4
+
+```python
+def square(number):
+    return number * number
+
+print(square(5))
+```
+
+### Output
+
+```
+25
+```
+
+## Advantages of Functions
+
+- Reuse code.
+- Reduce repetition.
+- Make programs easier to read.
+- Simplify debugging.
+- Improve code organization.
